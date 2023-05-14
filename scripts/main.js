@@ -1,6 +1,6 @@
 // Image switcher code
 
-let myImage = document.querySelector('img');
+let myImage = document.querySelector('img')sssss;
 
 myImage.onclick = function() {
   let mySrc = myImage.getAttribute('src');
